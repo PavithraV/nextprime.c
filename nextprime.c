@@ -1,7 +1,8 @@
 #include <stdio.h>
 void main(void) 
 {
-	  int temp,n=121,i,flag=1;
+	  int temp,n,i,flag=1;
+	  scanf("%d",&n);
 	  temp=n;
 	  LOOP:while(flag!=0)
 	  {
